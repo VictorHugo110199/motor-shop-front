@@ -2,7 +2,7 @@
 
 ### Tópicos
 
-`Link Deploy:` https://motor-shop-deploy-1.vercel.app/
+`Link Deploy:` https://motor-shop-front.vercel.app/
 
 - [Descrição do projeto](#descrição-do-projeto)
 
