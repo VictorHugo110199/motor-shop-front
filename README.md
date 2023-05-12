@@ -2,13 +2,13 @@
 
 ### Tópicos
 
+`Link Deploy:` https://motor-shop-deploy-1.vercel.app/
+
 - [Descrição do projeto](#descrição-do-projeto)
 
 - [Funcionalidades](#funcionalidades)
 
 - [Ferramentas utilizadas](#ferramentas-utilizadas)
-
-- [Links](#Links)
 
 - [Desenvolvedores](#desenvolvedores)
 <hr>
